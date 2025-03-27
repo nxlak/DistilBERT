@@ -1,7 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
-# Обзор файлов для реализации DistilBERT в анализе интенций
-
 ## Установка и настройка окружения
 
 ### 1. Установка Jupyter Notebook
